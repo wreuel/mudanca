@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Testando Jenkins</h1>
         <p class="lead">Ultimo teste do Jenkins antes de dormir.</p>
-        <p><% this.Response.Write("1.0.0.1"); %></p>
+        <p><% this.Response.Write("1.0.0.2"); %></p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
